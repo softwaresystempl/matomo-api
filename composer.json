@@ -1,6 +1,6 @@
 {
-    "name": "pfrenssen/matomo-reporting-api",
-    "description": "PHP client library to query the Matomo Reporting API.",
+    "name": "softwaresystem/matomo-reporting-api",
+    "description": "PHP client library to query the Matomo Reporting API with guzzlehttp 7.0",
     "type": "library",
     "license": "GPL-3.0",
     "authors": [
